@@ -1,95 +1,159 @@
-<!-- Banner -->
-<h1 align="center">🔐🚀 Bem-vindo ao meu mundo — Criação, Segurança e Automação</h1>
-<p align="center">Back-End Developer • DevOps • DevSecOps • SOC Analyst • Pentester • Cybersecurity</p>
+<h1 align="center">🔐🚀 Raul – DevSecOps | Back-End | Cybersecurity | Pentest</h1>
+<p align="center">Desenvolver | Proteger | Atacar.</p>
 
 ---
 
-## 🕶️ Sobre mim
+## 🧠 Quem sou eu
 
-Sou um desenvolvedor Back-End em constante evolução, focado em criar soluções **eficientes, seguras e escaláveis**.  
-Minha base é **Java + Spring Boot**, mas minha atuação vai muito além do código:
+Sou um **DevSecOps Engineer e Back-End Developer** com forte atuação em **segurança ofensiva e defensiva**, construindo soluções que unem:
 
-- Integro práticas modernas de **Arquitetura Limpa**, DDD e boas práticas de engenharia.
-- Desenvolvimento de APIs REST de alto nível.
-- Mentalidade orientada a **segurança**, aplicada desde o design até a entrega em produção.
-- Experiência crescente em **DevOps, automação, IaC, CI/CD e containers**.
-- Atuação em áreas de **SOC, Red Team, Pentest e Threat Intelligence**, trazendo visão ofensiva e defensiva para qualquer projeto.
+- **Desenvolvimento Back-end profissional (Java + Spring Boot)**
+- **Arquitetura segura (Clean Architecture, DDD, OWASP)**
+- **DevOps & automação (CI/CD, Containers, IaC)**
+- **Segurança da Informação aplicada ao ciclo completo de software**
+- **Cybersecurity / SOC / Pentest / Threat Intelligence**
 
-Busco sempre evoluir, participar de projetos desafiadores e contribuir com soluções de alto impacto, combinando tecnologia, segurança e criatividade.
-
----
-
-## 🧠 Tech Stack
-
-### 🚀 Back-end & Linguagens
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="55" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="55" />
-</p>
-
-### ⚙️ Frameworks
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="55" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="55" />
-</p>
-
-### ☁️ DevOps, Cloud & Infra
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="55" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="55" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="55" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="55" />
-</p>
-
-### 🗄️ Bancos de Dados
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="55" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="55" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55" />
-</p>
-
-### 🛡️ Segurança da Informação
-- SOC Analyst  
-- Red Team & Pentest  
-- Threat Intelligence  
-- OWASP Top 10  
-- Threat Modeling  
-- Hardening & Secure Development  
+Minha missão é entregar sistemas **altamente seguros, escaláveis e resilientes**, adotando práticas modernas que integram desenvolvimento, automação e segurança desde o primeiro commit.
 
 ---
 
-## 🕵️‍♂️ “Building, Breaking and Securing”
+## 🛡️ O que tenho feito:
 
-Com mindset híbrido entre **engenharia + segurança ofensiva + segurança defensiva**, atuo desde:
+✔️ Desenvolvo APIs robustas e escaláveis  
+✔️ Implemento pipelines CI/CD com segurança integrada  
+✔️ Realizo hardening, threat modeling e arquitetura zero-trust  
+✔️ Integro DevOps + Segurança (DevSecOps)  
+✔️ Automatizo esteiras de build, testes e deploy  
+✔️ Atuo em Red Team e SOC  
+✔️ Realizo análises, investigação, resposta e mitigação de incidentes  
+✔️ Executo Pentest em aplicações, redes e infraestrutura
 
-- Desenvolvimento seguro (DevSecOps)  
-- Criação de pipelines blindados  
-- Pentest em aplicações e infraestrutura  
-- Monitoramento e resposta a incidentes  
-- Automação de processos e segurança como código  
+---
+
+# 🚀 Tecnologias Principais
+
+<p>
+  <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/></code> Java
+
+  <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/></code> **Spring Boot**
+
+  <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/></code> **MySQL**
+
+  <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/></code> **Docker**
+
+  <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/></code> **React**
+
+  <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vault/vault-original.svg"/></code> **HashiCorp Vault**
+
+  <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg"/></code> **Cloudflare**
+
+  <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"/></code> **Ubuntu**
+
+</p>
+
+---
+
+# 🧱 Back-End Engineering
+
+<p>
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+</p>
+
+- APIs REST seguras
+- Autenticação/Autorização (JWT, OAuth2, 2FA, MFA)
+- JPA, Hibernate, MySQL, PostgreSQL
+- Clean Architecture, SOLID, DDD
+
+---
+
+# ⚙️ DevOps & Infra
+
+<p>
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker"/>
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" />
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" />
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" alt="Ansible" />
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" />
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="GitLab CI/CD" />
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" />
+  <!-- AWS (PNG from SimpleIcons via jsDelivr — works on GitHub) -->
+  <img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/amazonaws.svg" alt="AWS" />
+</p>
+
+- Pipelines CI/CD (GitHub Actions, GitLab CI, Jenkins)
+- Docker, Kubernetes, Helm
+- Observabilidade (Prometheus, Grafana, Loki)
+- Infraestrutura como Código (Terraform, Ansible)
+- Integração com Cloud (AWS, Cloudflare)
+- Zero-Trust, Secrets Management & Vault
+
+---
+
+# 🔐 DevSecOps – Segurança em Tudo
+
+<p>
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vault/vault-original.svg"/>
+  <img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/owasp.svg" />
+  <img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/sonarqube.svg"/>
+</p>
+
+- Segurança integrada ao pipeline
+- HashiCorp Vault para secrets management
+- Scanners automáticos (SAST/DAST/SCA)
+- OWASP Top 10, ASVS, Threat Modeling
+- Política de Zero Trust e MFA
+
+---
+
+# 🛡️ Cybersecurity & Pentest
+
+<p>
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kalilinux/kalilinux-original.svg" />
+  <img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/owasp.svg" />
+</p>
+
+
+- Testes de intrusão (Web, API, Infra)
+- Vulnerability assessment
+- Ferramentas: Burp Suite, Nmap, Metasploit, Wireshark
+- Red Team & Social Engineering
+- Secure Coding & Hardening
+
+---
+
+# 🛰️ SOC & Threat Intelligence
+
+- Monitoramento, alerta e resposta a incidentes
+- Análise de ataques, IOC, TTPs (MITRE ATT&CK)
+- Investigação de logs, SIEM, firewall, tráfego
+- Correlação e mitigação de ameaças
+- Blue Team e inteligência defensiva
 
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 </p>
+
 
 ---
 
-## 📡 Onde me encontrar
+## 📫 Conecte-se comigo
 <p>
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" />
+  <a href="linkedin.com/in/raul-fernandes-138a631a7" target="_blank">
+    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
   </a>
-  <a href="mailto:seuemail@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="50" />
+  <a href="mailto:raul_FSM692@hotmail.com" target="_blank">
+    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"/>
   </a>
 </p>
 
 ---
 
-<h3 align="center">⚔️ “O código é a arma. A segurança é o escudo.” ⚔️</h3>
+<h3 align="center">⚔️ “Build. Break. Secure. Repeat.” ⚔️</h3>
