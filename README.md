@@ -146,7 +146,7 @@ Minha missão é entregar sistemas **altamente seguros, escaláveis e resiliente
 
 ## 📫 Conecte-se comigo
 <p>
-  <a href="[linkedin.com/in/raul-fernandes-138a631a7](https://www.linkedin.com/in/raul-fernandes-138a631a7/)" target="_blank">
+  <a href="linkedin.com/in/raul-fernandes-138a631a7](https://www.linkedin.com/in/raul-fernandes-138a631a7" target="_blank">
     <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
   </a>
   <a href="mailto:raul_FSM692@hotmail.com" target="_blank">
